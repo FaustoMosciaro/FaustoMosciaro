@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👨‍💻 Fausto Mosciaro
 
-<!--
-**FaustoMosciaro/FaustoMosciaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Tecnico informatico | Reti, hardware e soluzioni IT personalizzate  
+📍 Italia | Supporto in sede e remoto
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Cosa trovi nel mio GitHub
+
+🚀 Script e utility per tecnici IT  
+🔐 Strumenti per la sicurezza e la diagnostica  
+💻 Automazioni per Windows, batch, PowerShell e tool utili  
+🧠 Progetti personali e test di laboratorio
+
+---
+
+## 📬 Contatti
+
+📧 faustomosciaro99@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/fausto-mosciaro-a94212264)  
+📱 Supporto remoto disponibile su richiesta
